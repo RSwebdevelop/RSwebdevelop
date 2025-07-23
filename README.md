@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I’m Ranjan Sharma
 
-<!--
-**RSwebdevelop/RSwebdevelop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 A Front-End Learner | 💻 Practicing 100 CSS Projects  
+🎯 Exploring HTML, CSS, JavaScript and GitHub  
+🚀 Passionate about Web Design & Clean UI  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tools I Use
+- VS Code
+- HTML5 / CSS3
+- Git & GitHub
+- Responsive Design (Flexbox, Grid)
+
+---
+
+## 📂 My Projects
+🧪 I'm currently working on `My-100-CSS-Projects`  
+Each project is a unique UI challenge to sharpen my CSS skills.  
+
+📁 Visit the repo: [My-100-CSS-Projects](https://github.com/RSwebdevelop/My-100-CSS-Projects)
+
+---
+
+## 📬 Let’s Connect!
+📧 ranjan.webdeveloper@gmail.com  
+🌐 [My Portfolio Coming Soon...]
